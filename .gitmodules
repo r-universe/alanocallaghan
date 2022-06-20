@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "contrast"]
+	path = contrast
+	url = https://github.com/alanocallaghan/contrast
+	shallow = true
+	registered = true
