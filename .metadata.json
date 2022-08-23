@@ -2,5 +2,11 @@
   {
     "package": "contrast",
     "oncran": true
+  },
+  {
+    "package": "densvis"
+  },
+  {
+    "package": "snifter"
   }
 ]
