@@ -8,6 +8,11 @@
 	url = https://github.com/alanocallaghan/contrast
 	shallow = true
 	registered = true
+[submodule "BASiCStan"]
+	path = BASiCStan
+	url = https://github.com/alanocallaghan/basicstan
+	shallow = true
+	registered = true
 [submodule "densvis"]
 	path = densvis
 	url = https://github.com/alanocallaghan/densvis
