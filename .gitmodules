@@ -18,3 +18,8 @@
 	url = https://github.com/alanocallaghan/densvis
 	shallow = true
 	registered = true
+[submodule "snifter"]
+	path = snifter
+	url = https://github.com/alanocallaghan/snifter
+	shallow = true
+	registered = true
