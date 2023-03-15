@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "contrast"]
-	path = contrast
-	url = https://github.com/alanocallaghan/contrast
-	shallow = true
-	registered = true
-[submodule "BASiCStan"]
-	path = BASiCStan
-	url = https://github.com/alanocallaghan/basicstan
+[submodule "snifter"]
+	path = snifter
+	url = https://github.com/alanocallaghan/snifter
 	shallow = true
 	registered = true
 [submodule "densvis"]
@@ -18,8 +13,13 @@
 	url = https://github.com/alanocallaghan/densvis
 	shallow = true
 	registered = true
-[submodule "snifter"]
-	path = snifter
-	url = https://github.com/alanocallaghan/snifter
+[submodule "BASiCStan"]
+	path = BASiCStan
+	url = https://github.com/alanocallaghan/basicstan
+	shallow = true
+	registered = true
+[submodule "contrast"]
+	path = contrast
+	url = https://github.com/alanocallaghan/contrast
 	shallow = true
 	registered = true
