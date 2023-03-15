@@ -1,15 +1,15 @@
 [
   {
-    "package": "snifter"
-  },
-  {
-    "package": "densvis"
-  },
-  {
     "package": "BASiCStan"
   },
   {
     "package": "contrast",
     "oncran": true
+  },
+  {
+    "package": "densvis"
+  },
+  {
+    "package": "snifter"
   }
 ]
