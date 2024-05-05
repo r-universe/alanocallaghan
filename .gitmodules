@@ -2,18 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "BASiCStan"]
-	path = BASiCStan
-	url = https://github.com/alanocallaghan/basicstan
 [submodule "contrast"]
 	path = contrast
 	url = https://github.com/alanocallaghan/contrast
-[submodule "densvis"]
-	path = densvis
-	url = https://github.com/alanocallaghan/densvis
-[submodule "scater"]
-	path = scater
-	url = https://github.com/alanocallaghan/scater
-[submodule "snifter"]
-	path = snifter
-	url = https://github.com/alanocallaghan/snifter
